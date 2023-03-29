@@ -170,7 +170,7 @@ const Profile = () => {
             />
           </FormControl>
           <FormControl id="bio" isRequired>
-            <FormLabel>Bio</FormLabel>
+            <FormLabel>Bio Liban</FormLabel>
             <Textarea
               placeholder="Add your bio here"
               value={bio}
